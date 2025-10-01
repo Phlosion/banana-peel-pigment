@@ -233,6 +233,12 @@ footer a:hover, a:active {
 	text-decoration: underline;
 }
 
+.cta {
+  font-weight: bold;
+  color: #3a7a3f; /* eco-friendly green */
+  margin-top: 10px;
+}
+
 /* -- Code for the Cookie Compliance popover window -- */
 /*
 #cookiePopup {
